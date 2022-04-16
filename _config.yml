@@ -1,2 +1,4 @@
 theme: jekyll-theme-midnight
 title: Ameera Elgonemy Github Page
+navbar-links:
+  About Me: "aboutme"
